@@ -4,8 +4,8 @@ Welcome to the repository for the documentation and resources related to our cus
 
 ## Specifications
 
-- **Build Volume**: 300x300 mm
-- **Print Technology**: Fused Flament Fabrication
+- **Build Volume**: 250x250 mm
+- **Print Technology**: Fused Filament Fabrication
 - **Printer Dimensions**: 450x450x600 mm
 - **Material Compatibility**: Up to 500°C hotend, 120°C bed, tungsten carbide nozzle for abrasive filaments
 - **Print Speed**: 500+ mm/s
