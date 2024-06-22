@@ -2,6 +2,8 @@
 
 Welcome to the repository for the documentation and resources related to our custom-built 3D printer. All of the specs are requirements that will be taken into account during the design process.
 
+![3D Printer Render](Images/printer_render_temp.JPG)
+
 ## Specifications
 
 - **Build Volume**: 250x250 mm
@@ -15,10 +17,10 @@ Welcome to the repository for the documentation and resources related to our cus
 
 ## Features
 
-- **Sturdy Frame**: A machined steel gantry for enhanced rigidity and alignment. 4040 aluminum extrusions for the frame
+- **Sturdy Frame**: A machined steel gantry for enhanced rigidity and alignment. Full steel frame to minimize misalignment due to thermal expansion
 - **Linear Rails**: Utilizes high-quality MGN9 cross rails and MGN12 static rails
 - **Belted Z-Axis**: Equipped with 12mm GT3 belts and HGR15 rails for the Z-axis
-- **Needle Bearings and Double Shear**: Incorporates needle bearings and double shear for the gantry, enhancing durability and reducing wear.
+- **Double Shear**: Incorporates double shear for the gantry, enhancing durability and reducing wear.
 - **Future Expansion**: Designed to accommodate future expansion, including a heated chamber and insulation for improved print quality and material compatibility.
 - **Additional Hardware**: Features a Chube hotend and Beacon support
 - **Open Source**: Utilizes Klipper firmware, allowing for customization and community-driven development.
